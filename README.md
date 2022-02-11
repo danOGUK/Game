@@ -1,1 +1,1 @@
-This game is developed by Dan Boyden 2022.
+This game.io is developed by Dan Boyden 2022.
