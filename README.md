@@ -1,1 +1,1 @@
-# Game
+This game is developed by Dan Boyden 2022.
