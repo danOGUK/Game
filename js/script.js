@@ -2,5 +2,6 @@ var spaceKills = 0;
 var bullets = 1;
 
 function attackSpace() {
- spaceKills + bullets = spaceKills;
+ spaceKills = spaceKills + bullets;
+   document.getElementById("spaceKills").innerHTML = spaceKills;
 }
