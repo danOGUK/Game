@@ -37,7 +37,7 @@ button.startBtn a {
  text-decoration: none; 
 }
 
-button.startBtn a:hover {
+button.startBtn a::hover {
     cursor: pointer;
 }
 
