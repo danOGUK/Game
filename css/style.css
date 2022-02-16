@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Aldrich&display=swap');
 
 html {
-   font-size: 15px;
+   font-size: 18px;
    font-family: 'Aldrich', sans-serif;
    color: #fff;
    background-color: #000;
@@ -17,12 +17,9 @@ body {
    text-align: center;
 }
 
-p {
- font-size: 18px;  
-}
-
 h1 {
    font-size: 60px;
+   font-family: 'Aldrich', sans-serif;
 }
 
 button.startBtn {
