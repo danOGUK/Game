@@ -8,7 +8,9 @@
   </head>
   <body>
     
-    <h1> Welcome to SpaceOrbit Online</h1>
+    <h1>SpaceOrbit Online</h1>
+    
+    <p>Hi, and welcome to SpaceOrbit Online, a FREE online clicker based browser game</p>
     
     <a href="/game/game.php"><button type="button" class="startBtn">Start Game</button></a>
     
