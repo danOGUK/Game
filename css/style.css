@@ -27,6 +27,12 @@ button.startBtn {
  color: #fff;
  padding: 30px 50px;
  font-size: 22px;
+ font-family: 'Aldrich', sans-serif;
+}
+
+button.startBtn a {
+ color: #fff;
+ text-decoration: none; 
 }
 
 .footer {
