@@ -22,7 +22,6 @@ p {
 }
 
 h1 {
-font-family: 'Aldrich', sans-serif;
    font-size: 60px;
 }
 
@@ -31,14 +30,12 @@ button.startBtn {
  color: #fff;
  padding: 30px 50px;
  font-size: 22px;
- font-family: 'Aldrich', sans-serif;
  border: none;
 }
 
 button.startBtn a {
  color: #fff;
  text-decoration: none; 
- border-bottom: 3px solid #fff;
 }
 
 button.startBtn:hover {
