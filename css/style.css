@@ -28,6 +28,7 @@ button.startBtn {
  padding: 30px 50px;
  font-size: 22px;
  border: none;
+ font-family: 'Aldrich', sans-serif;
 }
 
 button.startBtn a {
