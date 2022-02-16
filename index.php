@@ -8,4 +8,8 @@
   </head>
   <body>
     
+    <h1> Welcome to SpaceOrbit Online</h1>
+    
+    <button type="button" class="startBtn"><a href="/game/game.php">Start Game</a></button> 
+    
     
