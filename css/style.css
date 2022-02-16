@@ -15,7 +15,6 @@ body {
    min-height: 100vh;
    padding: 20px;
    text-align: center;
-   cursor: pointer;
 }
 
 h1 {
@@ -31,13 +30,15 @@ button.startBtn {
  font-family: 'Aldrich', sans-serif;
  border-bottom: 3px solid #fff;
  border: none;
-   cursor: pointer;
 }
 
 button.startBtn a {
  color: #fff;
  text-decoration: none; 
-   cursor: pointer;
+}
+
+button.startBtn a:hover {
+    cursor: pointer;
 }
 
 .footer {
