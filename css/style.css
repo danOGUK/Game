@@ -30,7 +30,7 @@ button.startBtn {
  font-family: 'Aldrich', sans-serif;
  border-radius: 30px;
  border: 16px solid transparent;
-  border-image: linear-gradient(45deg, red , yellow);
+  border-image: linear-gradient(45deg, #1d1135 , #0c164f, #ba1a68 );
   border-image-slice: 1;
   height: 120px;
 }
