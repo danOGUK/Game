@@ -32,13 +32,13 @@ button.startBtn {
  padding: 30px 50px;
  font-size: 22px;
  font-family: 'Aldrich', sans-serif;
- border-bottom: 3px solid #fff;
  border: none;
 }
 
 button.startBtn a {
  color: #fff;
  text-decoration: none; 
+ border-bottom: 3px solid #fff;
 }
 
 button.startBtn:hover {
