@@ -8,7 +8,4 @@
   </head>
   <body>
     
-    <button type="button" class="attackBtn" onClick="attackSpace()">Attack!</button>
-    <span id="spaceKills">0</span>
     
-<script src="js/script.js"></script>
