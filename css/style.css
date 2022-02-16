@@ -32,7 +32,7 @@ button.startBtn {
  border: 16px solid transparent;
   border-image: linear-gradient(45deg, #1d1135 , #0c164f, #ba1a68 );
   border-image-slice: 1;
-  height: 120px;
+  height: 20px;
 }
 
 button.startBtn a {
