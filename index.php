@@ -10,6 +10,6 @@
     
     <h1> Welcome to SpaceOrbit Online</h1>
     
-    <button type="button" class="startBtn"><a href="/game/game.php">Start Game</a></button> 
+    <a href="/game/game.php"><button type="button" class="startBtn">Start Game</button></a>
     
     
