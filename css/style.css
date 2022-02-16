@@ -29,6 +29,7 @@ button.startBtn {
  font-size: 22px;
  font-family: 'Aldrich', sans-serif;
    border-bottom: 3px solid #fff;
+   border: none;
 }
 
 button.startBtn a {
