@@ -29,9 +29,8 @@ button.startBtn {
  font-size: 22px;
  font-family: 'Aldrich', sans-serif;
  border: 8px solid transparent;
- border-image: linear-gradient(45deg, #1d1135 , #0c164f, #ba1a68 );
- border-radius: 30px; 
- border-clip: border-box;
+ border-image: linear-gradient(45deg, #1d1135 , #0c164f, #ba1a68);
+ border-slice: 1;
 }
 
 button.startBtn a {
