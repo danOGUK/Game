@@ -3,7 +3,8 @@ var aluminium = 0;
 var bullets = 1;
 
 function randomAluminium() {
-var rand =  Math.floor(Math.random() * (max - min)) + min;
+
+let rand = Math.floor(Math.random() * 10);
 aluminium = aluminium + rand;
 document.getElementById("alumQty").innerHTML = aluminium;
 }
