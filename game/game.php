@@ -13,6 +13,5 @@
     </div>
         <span>Kills</span><div id="spaceKills">0</div>
          <span>Aluminium</span><div id="aluminium">0</div>
-          <span>Reece's Nips</span><div id="reecesNips">0</div>
 
 <script src="js/script.js"></script>
