@@ -4,7 +4,7 @@ var bullets = 1;
 var nips = 0;
 
 function randomAluminium() {
-let rand = Math.floor(Math.random() * 3);
+let rand = Math.floor(Math.random() * 1);
 aluminium = aluminium + rand;
 document.getElementById("aluminium").innerHTML = aluminium;
 }
@@ -19,7 +19,7 @@ function attackSpace() {
  spaceKills = spaceKills + bullets;
    document.getElementById("spaceKills").innerHTML = spaceKills;
   randomAluminium();
- reeceNips();
+  reeceNips();
 }
 
 
