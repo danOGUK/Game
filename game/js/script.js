@@ -9,15 +9,17 @@ aluminium = aluminium + rand;
 document.getElementById("aluminium").innerHTML = aluminium;
 }
 
-function attackSpace() {
- spaceKills = spaceKills + bullets;
-   document.getElementById("spaceKills").innerHTML = spaceKills;
-  randomAluminium();
-}
-
-
 function reeceNips() {
  let randNips = Math.floor(Math.random() * 2);
  aluminium = aluminium + randNips;
  document.getElementById("aluminium").innerHTML = aluminium;
 }
+
+function attackSpace() {
+ spaceKills = spaceKills + bullets;
+   document.getElementById("spaceKills").innerHTML = spaceKills;
+  randomAluminium();
+ reeceNips();
+}
+
+
