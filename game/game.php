@@ -9,8 +9,8 @@
   <body>
     
     <button type="button" class="attackBtn" onClick="attackSpace()">Attack!</button>
-    <span id="spaceKills">0</span>
-    <span id="aluminium">0</span>
-    <span id="reecesNips">0</span>
+    <span>Kills</span><div id="spaceKills">0</div>
+    <span>Aluminium</span><div id="aluminium">0</div>
+    <span>Reece's Nips</span><div id="reecesNips">0</div>
 
 <script src="js/script.js"></script>
